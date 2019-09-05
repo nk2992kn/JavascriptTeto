@@ -1,0 +1,75 @@
+body {
+    background-color: #1E90FF;
+//    background-color: #00BFFF;
+	width: 70%;
+	margin: 0 auto;
+}
+.teto {
+    background-color: #263238;
+	text-align: center;
+}
+	
+h1 {
+    color: #FFFFFF;
+}
+.profile {
+	text-align: center;
+}
+.index_text {
+	text-align: center;
+}
+.teto_text {
+}
+
+table {
+    width: 400px;
+    height: 800px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5 {
+	color: #FFFFFF
+}
+.last_modify {
+	text-align: right;
+}
+.back {
+	text-align: right;
+}
+	
+td {
+    width: 10%;
+    height: 5%;
+    background-color: #455A64;
+}
+
+.i {
+    background-color: #00BCD4; /* cyan */
+}
+
+.o {
+    background-color: #FFEB3B; /* yellow */
+}
+
+.t {
+    background-color: #9C27B0; /* purple */
+}
+    
+.s {
+    background-color: #4CAF50; /* green */
+}
+
+.z {
+    background-color: #F44336; /* red */
+}
+
+.j {
+    background-color: #2196F3; /* blue */
+}
+
+.l {
+    background-color: #FF9800; /* orange */
+}
+
